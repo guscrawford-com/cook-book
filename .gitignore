@@ -1,0 +1,2 @@
+# Always ignore things like scrap-text-ignore-.text or -ignore-scrap.text
+*-ignore-*
